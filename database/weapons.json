@@ -5,10 +5,10 @@
       "icon": "flowing_purity.png",
       "material_id": "dewdrop_series"
     },
-    "sacrifical_sword": {
-      "name": "Sacrifical Sword",
+    "sacrificial_sword": {
+      "name": "Sacrificial Sword",
       "type": "sword",
-      "icon": "sacrifical_sword.png",
+      "icon": "sacrificial_sword.png",
       "material_id": "gladiator_series"
     },
     "prototype_archaic": {
