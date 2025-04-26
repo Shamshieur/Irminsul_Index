@@ -1,0 +1,86 @@
+{
+    "forsaken_rift": {
+      "name": "Forsaken Rift",
+      "region": "Mondstadt",
+      "region_icon": "mondstadt.png",
+      "type": "character",
+      "material_ids": ["freedom_series", "resistance_series", "ballad_series"]
+    },
+    "taishan_mansion": {
+      "name": "Taishan Mansion",
+      "region": "Liyue",
+      "region_icon": "liyue.png",
+      "type": "character",
+      "material_ids": ["prosperity_series", "diligence_series", "gold_series"]
+    },
+    "violet_court": {
+      "name": "Violet Court",
+      "region": "Inazuma",
+      "region_icon": "inazuma.png",
+      "type": "character",
+      "material_ids": ["transience_series", "elegance_series", "light_series"]
+    },
+    "steeple_of_ignorance": {
+      "name": "Steeple of Ignorance",
+      "region": "Sumeru",
+      "region_icon": "sumeru.png",
+      "type": "character",
+      "material_ids": ["admonition_series", "ingenuity_series", "praxis_series"]
+    },
+    "pale_forgotten_glory": {
+      "name": "Pale Forgotten Glory",
+      "region": "Fontaine",
+      "region_icon": "fontaine.png",
+      "type": "character",
+      "material_ids": ["equity_series", "justice_series", "order_series"]
+    },
+    "blazing_ruins": {
+      "name": "Blazing Ruins",
+      "region": "Natlan",
+      "region_icon": "natlan.png",
+      "type": "character",
+      "material_ids": ["contention_series", "kindling_series", "conflict_series"]
+    },
+    "cecilia_garden": {
+      "name": "Cecilia Garden",
+      "region": "Mondstadt",
+      "region_icon": "mondstadt.png",
+      "type": "weapon",
+      "material_ids": ["decarabian_series", "boreal_series", "gladiator_series"]
+    },
+    "hidden_palace_of_lianshan_formula": {
+      "name": "Hidden Palace of Lianshan Formula",
+      "region": "Liyue",
+      "region_icon": "liyue.png",
+      "type": "weapon",
+      "material_ids": ["guyun_series", "mist_veiled_series", "aerosiderite_series"]
+    },
+    "court_of_flowing_sand": {
+      "name": "Court of Flowing Sand",
+      "region": "Inazuma",
+      "region_icon": "inazuma.png",
+      "type": "weapon",
+      "material_ids": ["branch_series", "narukami_series", "mask_series"]
+    },
+    "tower_of_abject_pride": {
+      "name": "Tower of Abject Pride",
+      "region": "Sumeru",
+      "region_icon": "sumeru.png",
+      "type": "weapon",
+      "material_ids": ["talisman_series", "oasis_series", "scorching_series"]
+    },
+    "echoes_of_the_deep_tides": {
+      "name": "Echoes of the Deep Tides",
+      "region": "Fontaine",
+      "region_icon": "fontaine.png",
+      "type": "weapon",
+      "material_ids": ["chord_series", "dewdrop_series", "goblet_series"]
+    },
+    "ancient_watchtower": {
+      "name": "Ancient Watchtower",
+      "region": "Natlan",
+      "region_icon": "natlan.png",
+      "type": "weapon",
+      "material_ids": ["sacrificial_series", "delirious_series", "mystic_series"]
+    }
+  }

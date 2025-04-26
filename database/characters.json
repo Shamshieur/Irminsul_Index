@@ -1,0 +1,176 @@
+{
+    "sucrose": {
+      "name": "Sucrose",
+      "element_type": "anemo",
+      "icon": "sucrose.png",
+      "material_id": "freedom_series"
+    },
+    "barbara": {
+      "name": "Barbara",
+      "element_type": "hydro",
+      "icon": "barbara.png",
+      "material_id": "freedom_series"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "element_type": "pyro",
+      "icon": "gaming.png",
+      "material_id": "prosperity_series"
+    },
+    "keqing": {
+      "name": "Keqing",
+      "element_type": "electro",
+      "icon": "keqing.png",
+      "material_id": "prosperity_series"
+    },
+    "bennet": {
+      "name": "Bennet",
+      "element_type": "pyro",
+      "icon": "bennet.png",
+      "material_id": "resistance_series"
+    },
+    "xiangling": {
+      "name": "Xiangling",
+      "element_type": "pyro",
+      "icon": "xiangling.png",
+      "material_id": "diligence_series"
+    },
+    "ororon": {
+      "name": "Ororon",
+      "element_type": "electro",
+      "icon": "ororon.png",
+      "material_id": "kindling_series"
+    },
+    "charlotte": {
+      "name": "Charlotte",
+      "element_type": "cryo",
+      "icon": "charlotte.png",
+      "material_id": "justice_series"
+    },
+    "chongyun": {
+      "name": "Chongyun",
+      "element_type": "cryo",
+      "icon": "chongyun.png",
+      "material_id": "diligence_series"
+    },
+    "noelle": {
+      "name": "Noelle",
+      "element_type": "geo",
+      "icon": "noelle.png",
+      "material_id": "resistance_series"
+    },
+    "jean": {
+      "name": "Jean",
+      "element_type": "anemo",
+      "icon": "jean.png",
+      "material_id": "resistance_series"
+    },
+    "xilonen": {
+      "name": "Xilonen",
+      "element_type": "geo",
+      "icon": "xilonen.png",
+      "material_id": "kindling_series"
+    },
+    "chevreuse": {
+      "name": "Chevreuse",
+      "element_type": "pyro",
+      "icon": "chevreuse.png",
+      "material_id": "order_series"
+    },
+    "varesa": {
+      "name": "Varesa",
+      "element_type": "electro",
+      "icon": "varesa.png",
+      "material_id": "conflict_series"
+    },
+    "rosaria": {
+      "name": "Rosaria",
+      "element_type": "cryo",
+      "icon": "rosaria.png",
+      "material_id": "ballad_series"
+    },
+    "kaeya": {
+      "name": "Kaeya",
+      "element_type": "cryo",
+      "icon": "kaeya.png",
+      "material_id": "ballad_series"
+    },
+    "collei": {
+      "name": "Collei",
+      "element_type": "dendro",
+      "icon": "collei.png",
+      "material_id": "praxis_series"
+    },
+    "faruzan": {
+      "name": "Faruzan",
+      "element_type": "anemo",
+      "icon": "faruzan.png",
+      "material_id": "admonition_series"
+    },
+    "thoma": {
+      "name": "Thoma",
+      "element_type": "pyro",
+      "icon": "thoma.png",
+      "material_id": "transience_series"
+    },
+    "raiden_shogun": {
+      "name": "Raiden Shogun",
+      "element_type": "electro",
+      "icon": "raiden_shogun.png",
+      "material_id": "light_series"
+    },
+    "kinich": {
+      "name": "Kinich",
+      "element_type": "dendro",
+      "icon": "kinich.png",
+      "material_id": "kindling_series"
+    },
+    "lisa": {
+      "name": "Lisa",
+      "element_type": "electro",
+      "icon": "lisa.png",
+      "material_id": "ballad_series"
+    },
+    "iansan": {
+      "name": "Iansan",
+      "element_type": "electro",
+      "icon": "iansan.png",
+      "material_id": "contention_series"
+    },
+    "traveler_pyro": {
+      "name": "Traveler(Pyro)",
+      "element_type": "pyro",
+      "icon": "traveler_pyro.png",
+      "material_ids": ["contention_series", "kindling_series", "conflict_series"]
+    },
+    "traveler_hydro": {
+      "name": "Traveler(Hydro)",
+      "element_type": "hydro",
+      "icon": "traveler_hydro.png",
+      "material_ids": ["contention_series", "kindling_series", "conflict_series"]
+    },
+    "traveler_anemo": {
+      "name": "Traveler(Anemo)",
+      "element_type": "anemo",
+      "icon": "traveler_anemo.png",
+      "material_ids": ["contention_series", "kindling_series", "conflict_series"]
+    },
+    "traveler_geo": {
+      "name": "Traveler(Geo)",
+      "element_type": "geo",
+      "icon": "traveler_geo.png",
+      "material_ids": ["contention_series", "kindling_series", "conflict_series"]
+    },
+    "traveler_dendro": {
+      "name": "Traveler(Dendro)",
+      "element_type": "dendro",
+      "icon": "traveler_dendro.png",
+      "material_ids": ["contention_series", "kindling_series", "conflict_series"]
+    },
+    "traveler_electro": {
+      "name": "Traveler(Electro)",
+      "element_type": "electro",
+      "icon": "traveler_electro.png",
+      "material_ids": ["contention_series", "kindling_series", "conflict_series"]
+    }
+  }

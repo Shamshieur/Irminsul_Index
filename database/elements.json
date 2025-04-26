@@ -1,0 +1,37 @@
+{
+    "pyro": {
+      "name": "Pyro",
+      "icon": "pyro.png",
+      "color": "#FF9999"
+    },
+    "hydro": {
+      "name": "Hydro",
+      "icon": "hydro.png",
+      "color": "#80C0FF"
+    },
+    "anemo": {
+      "name": "Anemo",
+      "icon": "anemo.png",
+      "color": "#80FFD7"
+    },
+    "electro": {
+      "name": "Electro",
+      "icon": "electro.png",
+      "color": "#FFACFF"
+    },
+    "dendro": {
+      "name": "Dendro",
+      "icon": "dendro.png",
+      "color": "#BBFF88"
+    },
+    "cryo": {
+      "name": "Cryo",
+      "icon": "cryo.png",
+      "color": "#99FFFF"
+    },
+    "geo": {
+      "name": "Geo",
+      "icon": "geo.png",
+      "color": "#FFE699"
+    }
+  }

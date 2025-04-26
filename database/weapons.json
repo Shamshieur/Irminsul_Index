@@ -1,0 +1,56 @@
+{
+    "flowing_purity": {
+      "name": "Flowing Purity",
+      "type": "catalyst",
+      "icon": "flowing_purity.png",
+      "material_id": "dewdrop_series"
+    },
+    "sacrifical_sword": {
+      "name": "Sacrifical Sword",
+      "type": "sword",
+      "icon": "sacrifical_sword.png",
+      "material_id": "gladiator_series"
+    },
+    "prototype_archaic": {
+      "name": "Prototype Archaic",
+      "type": "claymore",
+      "icon": "prototype_archaic.png",
+      "material_id": "aerosiderite_series"
+    },
+    "whiteblind": {
+      "name": "Whiteblind",
+      "type": "claymore",
+      "icon": "whiteblind.png",
+      "material_id": "guyun_series"
+    },
+    "black_tassel": {
+      "name": "Black Tassel",
+      "type": "polearm",
+      "icon": "black_tassel.png",
+      "material_id": "aerosiderite_series"
+    },
+    "white_tassel": {
+      "name": "White Tassel",
+      "type": "polearm",
+      "icon": "white_tassel.png",
+      "material_id": "guyun_series"
+    },
+    "sapwood_blade": {
+      "name": "Sapwood Blade",
+      "type": "sword",
+      "icon": "sapwood_blade.png",
+      "material_id": "talisman_series"
+    },
+    "favonius_warbow": {
+      "name": "Favonius Warbow",
+      "type": "bow",
+      "icon": "favonius_warbow.png",
+      "material_id": "sacrificial_series"
+    },
+    "sacrificial_sword": {
+      "name": "Sacrifical Sword",
+      "type": "sword",
+      "icon": "sacrificial_sword.png",
+      "material_id": "gladiator_series"
+    }
+  }

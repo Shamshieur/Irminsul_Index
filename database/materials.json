@@ -1,0 +1,254 @@
+{
+  "freedom_series": {
+    "name": "Freedom Series",
+    "icon": "freedom.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "forsaken_rift"
+  },
+  "resistance_series": {
+    "name": "Resistance Series",
+    "icon": "resistance.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "forsaken_rift"
+  },
+  "ballad_series": {
+    "name": "Ballad Series",
+    "icon": "ballad.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "forsaken_rift"
+  },
+  "prosperity_series": {
+    "name": "Prosperity Series",
+    "icon": "prosperity.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "taishan_mansion"
+  },
+  "diligence_series": {
+    "name": "Diligence Series",
+    "icon": "diligence.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "taishan_mansion"
+  },
+  "gold_series": {
+    "name": "Gold Series",
+    "icon": "gold.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "taishan_mansion"
+  },
+  "transience_series": {
+    "name": "Transience Series",
+    "icon": "transience.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "violet_court"
+  },
+  "elegance_series": {
+    "name": "Elegance Series",
+    "icon": "elegance.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "violet_court"
+  },
+  "light_series": {
+    "name": "Light Series",
+    "icon": "light.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "violet_court"
+  },
+  "admonition_series": {
+    "name": "Admonition Series",
+    "icon": "admonition.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "steeple_of_ignorance"
+  },
+  "ingenuity_series": {
+    "name": "Ingenuity Series",
+    "icon": "ingenuity.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "steeple_of_ignorance"
+  },
+  "praxis_series": {
+    "name": "Praxis Series",
+    "icon": "praxis.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "steeple_of_ignorance"
+  },
+  "equity_series": {
+    "name": "Equity Series",
+    "icon": "equity.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "pale_forgotten_glory"
+  },
+  "justice_series": {
+    "name": "Justice Series",
+    "icon": "justice.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "pale_forgotten_glory"
+  },
+  "order_series": {
+    "name": "Order Series",
+    "icon": "order.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "pale_forgotten_glory"
+  },
+  "contention_series": {
+    "name": "Contention Series",
+    "icon": "contention.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "blazing_ruins"
+  },
+  "kindling_series": {
+    "name": "Kindling Series",
+    "icon": "kindling.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "blazing_ruins"
+  },
+  "conflict_series": {
+    "name": "Conflict Series",
+    "icon": "conflict.png",
+    "domain_type": "character_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "blazing_ruins"
+  },
+  "decarabian_series": {
+    "name": "Decarabian Series",
+    "icon": "decarabian.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "cecilia_garden"
+  },
+  "boreal_series": {
+    "name": "Boreal Series",
+    "icon": "boreal.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "cecilia_garden"
+  },
+  "gladiator_series": {
+    "name": "Gladiator Series",
+    "icon": "gladiator.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "cecilia_garden"
+  },
+  "guyun_series": {
+    "name": "Guyun Series",
+    "icon": "guyun.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "hidden_palace_of_lianshan_formula"
+  },
+  "mist_veiled_series": {
+    "name": "Mist Veiled Series",
+    "icon": "mist veiled.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "hidden_palace_of_lianshan_formula"
+  },
+  "aerosiderite_series": {
+    "name": "Aerosiderite Series",
+    "icon": "aerosiderite.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "hidden_palace_of_lianshan_formula"
+  },
+  "branch_series": {
+    "name": "Branch Series",
+    "icon": "branch.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "court_of_flowing_sand"
+  },
+  "narukami_series": {
+    "name": "Narukami Series",
+    "icon": "narukami.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "court_of_flowing_sand"
+  },
+  "mask_series": {
+    "name": "Mask Series",
+    "icon": "mask.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "court_of_flowing_sand"
+  },
+  "talisman_series": {
+    "name": "Talisman Series",
+    "icon": "talisman.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "tower_of_abject_pride"
+  },
+  "oasis_series": {
+    "name": "Oasis Series",
+    "icon": "oasis.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "tower_of_abject_pride"
+  },
+  "scorching_series": {
+    "name": "Scorching Series",
+    "icon": "scorching.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "tower_of_abject_pride"
+  },
+  "chord_series": {
+    "name": "Chord Series",
+    "icon": "chord.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "echoes_of_the_deep_tides"
+  },
+  "dewdrop_series": {
+    "name": "Dewdrop Series",
+    "icon": "dewdrop.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "echoes_of_the_deep_tides"
+  },
+  "goblet_series": {
+    "name": "Goblet Series",
+    "icon": "goblet.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "echoes_of_the_deep_tides"
+  },
+  "sacrificial_series": {
+    "name": "Sacrificial Series",
+    "icon": "sacrificial.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "ancient_watchtower"
+  },
+  "delirious_series": {
+    "name": "Delirious Series",
+    "icon": "delirious.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "ancient_watchtower"
+  },
+  "mystic_series": {
+    "name": "Mystic Series",
+    "icon": "mystic.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["wednesday", "saturday", "sunday"],
+    "domain_id": "ancient_watchtower"
+  }
+}
