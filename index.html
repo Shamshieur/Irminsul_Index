@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Irminsul Index | Petrified Tree Cycle Offerings</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="logo">Irminsul Index</div>
+        <div class="header-right">
+          <div class="server-info">
+            <div id="reset-time-info"></div>
+            <div>
+              Next reset in:
+              <span class="reset-countdown" id="reset-countdown">--:--:--</span>
+            </div>
+          </div>
+          <div class="theme-toggle-container">
+            <label class="theme-toggle" id="theme-toggle">
+              <input type="checkbox">
+              <span class="slider"></span>
+            </label>
+          </div>
+        </div>
+      </header>
+
+      <div class="info-panel">
+        <p>
+          Irminsul Index is a dedicated offshoot of the Irminsul Repository Roots, with particular focus on the Petrified Tree archives. This site was established to harmonize with the cyclical flow of 
+          <span class="tooltip">samsara<span class="tooltip-text">Server Reset</span></span>, 
+          offering insight into the ever-repeating rhythm of Teyvat's domain ley line shifts — known as 
+          <span class="tooltip">Petrified Tree Resonance<span class="tooltip-text">Domains</span></span>.
+        </p>
+      </div>
+
+      <main class="content-wrapper">
+        <section class="panel">
+          <div class="section-header">
+            <div class="section-title">Today's Offerings</div>
+            <div class="tabs">
+              <div class="tab active" data-tab="characters">Vision Bearer</div>
+              <div class="tab" data-tab="weapons">Instruments</div>
+            </div>
+          </div>
+
+          <div class="icon-grid" id="today-items">
+            <!-- Today's items will be populated here -->
+          </div>
+
+          <div class="detail-panel" id="detail-panel">
+            <!-- Detail content will be populated here -->
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="section-header">
+            <div class="section-title">Recorded Vision Bearers</div>
+            <div class="filters" id="character-filters">
+              <button class="filter-btn active" data-filter="all">All</button>
+              <button class="filter-btn" data-filter="a-z">A-Z</button>
+              <!-- Element filters will be added dynamically -->
+            </div>
+          </div>
+          <div class="icon-grid" id="all-characters">
+            <!-- All characters will be populated here -->
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="section-header">
+            <div class="section-title">Recorded Instruments</div>
+            <div class="filters" id="weapon-filters">
+              <button class="filter-btn active" data-filter="all">All</button>
+              <button class="filter-btn" data-filter="a-z">A-Z</button>
+              <!-- Weapon type filters will be added dynamically -->
+            </div>
+          </div>
+          <div class="icon-grid" id="all-weapons">
+            <!-- All weapons will be populated here -->
+          </div>
+        </section>
+      </main>
+
+      <footer>
+        Irminsul Index is not affiliated with HoYoverse. All game content and
+        materials are trademarks and copyrights of their respective owners.
+      </footer>
+    </div>
+    <script src="js/script.js"></script>
+  </body>
+</html>
