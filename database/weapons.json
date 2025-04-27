@@ -47,10 +47,22 @@
       "icon": "favonius_warbow.png",
       "material_id": "sacrificial_series"
     },
-    "sacrificial_sword": {
-      "name": "Sacrifical Sword",
-      "type": "sword",
-      "icon": "sacrificial_sword.png",
+    "sacrificial_fragments": {
+      "name": "Sacrifical Fragments",
+      "type": "catalyst",
+      "icon": "sacrificial_fragments.png",
       "material_id": "gladiator_series"
+    },
+    "favonius_codex": {
+      "name": "Favonius Codex",
+      "type": "catalyst",
+      "icon": "favonius_codex.png",
+      "material_id": "decarabian_series"
+    },
+    "thrilling_tales": {
+      "name": "Thrilling Tales of Dragon Slayers",
+      "type": "catalyst",
+      "icon": "thrilling_tales.png",
+      "material_id": "boreal_series"
     }
   }
