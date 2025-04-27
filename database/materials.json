@@ -250,5 +250,19 @@
     "domain_type": "weapon_ascension",
     "domain_schedule": ["wednesday", "saturday", "sunday"],
     "domain_id": "ancient_watchtower"
+  },
+  "decarabian_series": {
+    "name": "Decarabian Series",
+    "icon": "decarabian.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["monday", "thursday", "sunday"],
+    "domain_id": "cecilia_garden"
+  },
+  "boreal_series": {
+    "name": "Boreal Series",
+    "icon": "boreal.png",
+    "domain_type": "weapon_ascension",
+    "domain_schedule": ["tuesday", "friday", "sunday"],
+    "domain_id": "cecilia_garden"
   }
 }
