@@ -64,5 +64,10 @@
       "type": "catalyst",
       "icon": "thrilling_tales.png",
       "material_id": "boreal_series"
-    }
+    },
+    "white_tassel": {
+      "name": "White Tassel",
+      "type": "polearm",
+      "icon": "white_tassel.png",
+      "material_id": "guyun_series"
   }
